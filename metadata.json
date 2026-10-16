@@ -1,0 +1,6 @@
+{
+  "name": "중화반응 실험실",
+  "description": "Interactive chemistry laboratory simulation for neutralization reactions with real-time graphs, molecular particle view, pH tracking, ion tables, and undo controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
